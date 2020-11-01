@@ -1,0 +1,12 @@
+**/.project
+**/.classpath
+**/.settings
+**/target
+**/bin
+**/.idea
+**/*.iml
+**/catalina.base_IS_UNDEFINED
+**/.DS_Store
+**/data
+**/apidoc
+source/logs/*
